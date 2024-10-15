@@ -1,0 +1,29 @@
+
+        <h1>Factura #3</h1>
+        <p>Fecha: 01/10/2024</p>
+        <p>Hora: 14:59:35</p>
+        <p>Cliente: felipeb</p>
+        <p>Dirección: calle 39 a 24-43</p>
+        <p>Email: felipe@gmail.com</p>
+
+        <table>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Total</th>
+            </tr>
+    
+            <tr>
+                <td>azucar morena</td>
+                <td>$1600.00</td>
+                <td>1</td>
+                <td>$1600.00</td>
+            </tr>
+        
+        </table>
+
+        <p>Subtotal: $1600</p>
+        <p>Impuestos (10%): $160</p>
+        <p>Total: $1760</p>
+    
